@@ -1,0 +1,35 @@
+.container{
+        border: 2px solid black;
+        
+}
+#Menu{
+    border: 2px solid black;
+    background-color:lightgoldenrodyellow;
+   
+
+}
+#Sub{
+    border: 2px solid black; 
+    background-color: lightgray;
+    padding: 200px;
+}
+#Sidebar{
+    border: 2px solid black;
+    background-color: lightsteelblue;
+    padding: 20px;
+
+    
+}
+#Header{
+    background-color: antiquewhite;
+    padding: 40px;
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    display: inline-block;
+    padding: 3px 0px;
+    margin: 12px;
+}
